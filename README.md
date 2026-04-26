@@ -34,7 +34,8 @@
 ---
 
 ### 📊 Dashboard — Crop Health Analytics
-![Dashboard](<app image2-1.jpeg>)!
+![Dashboard](<app image2-1.jpeg>)!<img width="1539" height="733" alt="app image2" src="https://github.com/user-attachments/assets/e8a30dd4-8866-4813-b5eb-8ce98a4f8fd0" />
+
 ![Dashboard Charts](<app image3-1.jpeg>)!(<app image4-2.jpeg>)!
 
 > Interactive charts showing **Disease Frequency**, **Crop Health Analytics** (Tomato, Rice, Potato, Wheat), and **Detection History** with confidence scores over time.
