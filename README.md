@@ -34,7 +34,9 @@
 ---
 
 ### 📊 Dashboard — Crop Health Analytics
-![Dashboard](<app image2-1.jpeg>)!<img width="1539" height="733" alt="app image2" src="https://github.com/user-attachments/assets/e8a30dd4-8866-4813-b5eb-8ce98a4f8fd0" />
+![Dashboard](<app image2-1.jpeg>)!<img width="1539" height="733" alt="app image2" src="https://github.com/user-attachments/assets/e8a30dd4-8866-4813-b5eb-8ce98a4f8fd0" /><img width="1526" height="728" alt="app image" src="https://github.com/user-attachments/assets/8632c85b-e6aa-4729-b81a-69bf7cea3f32" />
+<img width="1551" height="726" alt="app" src="https://github.com/user-attachments/assets/1c2ed59f-38c0-411b-8006-bb3256278cfd" />
+
 
 ![Dashboard Charts](<app image3-1.jpeg>)!(<app image4-2.jpeg>)!
 
@@ -43,14 +45,16 @@
 ---
 
 ### 🔍 Disease Detection — Upload & Detect
-![Disease Detection](<app image5-1.jpeg>)!
+![Disease Detection](<app image5-1.jpeg>)!<img width="1534" height="733" alt="app detection image" src="https://github.com/user-attachments/assets/3b5d3839-f427-416b-af9a-459a72ea7511" />
+
 
 > Select your crop (Rice, Maize, Tomato, Potato, Wheat, Sugarcane), upload a leaf image, and get an **instant AI-powered disease diagnosis**.
 
 ---
 
 ### 🤖 AI Assistant — Farming Chatbot
-![AI Assistant]!(<app image6-1.jpeg>)!
+![AI Assistant]!(<app image6-1.jpeg>)!<img width="1524" height="726" alt="app assistant" src="https://github.com/user-attachments/assets/3eabcdb7-435b-4f50-b52b-4834446b9f7c" />
+
 
 > Ask anything about **crop diseases, fertilizers, irrigation, pest control, and organic farming** — powered by an intelligent AI chatbot.
 
@@ -58,7 +62,8 @@
 
 ### 🌤️ Weather — Farming-Aware Forecast
 ![Weather Screen](<app image7-1.jpeg>)!
-![Farming Advice](<app image8-1.jpeg>)!S
+![Farming Advice](<app image8-1.jpeg>)!S<img width="1542" height="742" alt="app weather" src="https://github.com/user-attachments/assets/c05fe780-d9c2-4115-a461-b83c9c320b27" />
+
 
 > Live weather with **5-day forecast** and smart **Farming Advice** cards — High Humidity alerts, Rain warnings, Temperature tips — all tailored for field decisions.
 
