@@ -1,0 +1,28 @@
+rice_leaf smut
+rice_Bacterial leaf blight
+rice_Brown spot
+maize_Healthy
+maize_Gray_Leaf_Spot
+maize_Blight
+Potato___healthy
+Potato___Late_blight
+Potato___Early_blight
+Tomato_Early_blight
+Tomato_healthy
+Tomato_Tomato_mosaic_virus
+Tomato_Tomato_Yellowleaf_Curl_Virus
+Tomato_Target_Spot
+Tomato_Leaf_Mold
+Tomato_Late_blight
+Tomato_Bacterial_spot
+sugarcane_Healthy Leaves
+sugarcane_Dried Leaves
+sugarcane_disease_smut
+sugarcane_disease_Yellow Leaf
+sugarcae_disease_Viral Disease
+sugarcane_disease_Sett Rot
+sugarcane_disease_Pokkan Boeng
+sugarcane_disease_Grassy shoot
+sugarcane_disease_BrownRust
+sugarcane_disease_Brown Spot
+sugarcane_disease_Banded Chlorosis

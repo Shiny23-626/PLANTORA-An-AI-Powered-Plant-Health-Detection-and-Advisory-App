@@ -1,0 +1,67 @@
+{
+  "Rice Leaf Smut": {
+    "crop": "Rice",
+    "medicine": "Carbendazim",
+    "suggestions": [
+      "Use certified disease-free seeds",
+      "Spray Carbendazim fungicide",
+      "Remove infected plants",
+      "Maintain proper field hygiene"
+    ]
+  },
+
+  "Maize Leaf Blight": {
+    "crop": "Maize",
+    "medicine": "Propiconazole",
+    "suggestions": [
+      "Use resistant maize varieties",
+      "Apply Propiconazole fungicide",
+      "Remove infected plant debris",
+      "Ensure proper field drainage"
+    ]
+  },
+
+  "Tomato Leaf Mold": {
+    "crop": "Tomato",
+    "medicine": "Mancozeb",
+    "suggestions": [
+      "Remove infected leaves",
+      "Improve air circulation",
+      "Avoid overhead watering",
+      "Apply Mancozeb fungicide spray"
+    ]
+  },
+
+  "Potato Early Blight": {
+    "crop": "Potato",
+    "medicine": "Chlorothalonil",
+    "suggestions": [
+      "Remove infected leaves",
+      "Practice crop rotation",
+      "Apply Chlorothalonil fungicide",
+      "Maintain proper field sanitation"
+    ]
+  },
+
+  "Wheat Leaf Rust": {
+    "crop": "Wheat",
+    "medicine": "Tebuconazole",
+    "suggestions": [
+      "Use resistant wheat varieties",
+      "Apply Tebuconazole fungicide",
+      "Remove infected plant debris",
+      "Monitor fields regularly"
+    ]
+  },
+
+  "Sugarcane Red Rot": {
+    "crop": "Sugarcane",
+    "medicine": "Carbendazim",
+    "suggestions": [
+      "Use healthy seed cane",
+      "Treat seed setts with Carbendazim",
+      "Remove infected plants immediately",
+      "Improve field drainage"
+    ]
+  }
+}

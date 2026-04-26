@@ -1,0 +1,112 @@
+AI Model Report – Plant Disease Detection
+1️⃣ Model Type
+The AI model used in the project is a:
+
+Convolutional Neural Network (CNN)
+
+CNN is a deep learning model designed for image classification tasks. It is widely used for detecting patterns in images such as plant leaf diseases.
+
+2️⃣ Framework Used
+The model was developed using:
+
+TensorFlow
+Keras
+TensorFlow Lite
+For mobile deployment, the trained model was converted to:
+
+TensorFlow Lite (.tflite)
+3️⃣ Model Input
+The model expects the following input:
+
+Input Type: Image
+Image Size: 224 × 224 pixels
+Color Format: RGB
+Normalization: image / 255.0
+So the pipeline is:
+
+Leaf Image
+     ↓
+Resize to 224 × 224
+     ↓
+Normalize (divide by 255)
+     ↓
+CNN Model
+4️⃣ Model Output
+The model returns:
+
+Disease name
+Confidence score
+Example output:
+
+Disease: rice_leaf smut
+Confidence: 0.97
+This means the model is 97% confident that the leaf has the detected disease.
+
+5️⃣ Classes Detected
+The model detects multiple crop diseases from these crops:
+
+Rice
+Maize
+Potato
+Tomato
+Sugarcane
+Wheat
+Each crop contains multiple disease categories.
+
+The model prediction internally produces a class index, which is mapped to the disease name using:
+
+class_labels.txt
+6️⃣ Model Accuracy
+Based on the trained dataset evaluation, the model achieved approximately:
+
+Training Accuracy: ~95%
+Validation Accuracy: ~92–95%
+During testing with sample images, predictions produced confidence scores above 0.95, indicating strong prediction capability.
+
+Example test result:
+
+Predicted class index: 0
+Confidence: 0.9773268
+Which corresponds to:
+
+Disease: rice_leaf smut
+Confidence: 97%
+7️⃣ Files Provided for Mobile Integration
+The following files are provided for integration into the mobile application:
+
+plant_disease_model.tflite
+class_labels.txt
+README.txt
+These files allow the mobile application to perform:
+
+Camera → Leaf Image → AI Model → Disease Detection
+8️⃣ AI Detection Workflow
+The final AI detection process works as follows:
+
+User captures leaf image
+        ↓
+Image resized to 224×224
+        ↓
+Image normalized
+        ↓
+TensorFlow Lite model processes image
+        ↓
+Model predicts disease class
+        ↓
+Confidence score calculated
+        ↓
+Mobile app displays disease + accuracy
+Example result shown in the app:
+
+Detected Disease: Rice Leaf Smut
+Confidence: 97%
+
+Suggested Treatment:
+Apply appropriate fungicide
+Remove infected leaves
+Monitor humidity levels
+9️⃣ Deployment
+The AI model is optimized for mobile devices using:
+
+TensorFlow Lite
+This allows fast real‑time disease detection using the mobile camera.
