@@ -26,7 +26,8 @@
 ## 🖥️ App Screenshots
 
 ### 🏠 Home — Smart Crop Disease Detection & Treatment System
-![Home Screen](<app image1-1.jpeg>)!
+![Home Screen](<app image1-1.jpeg>)!<img width="1544" height="726" alt="app homescreen" src="https://github.com/user-attachments/assets/33be3e06-75d8-4b1d-8ae8-65bcbdb98533" />
+
 
 > Stats at a glance: **12,450+ Total Scans · 38 Diseases Detected · 6 Crops Monitored · 94.7% AI Accuracy**
 
